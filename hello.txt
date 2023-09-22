@@ -1,0 +1,5 @@
+hello, git
+this is my first git file
+你好啊，git
+看看能不能存储中文
+wq:	a
