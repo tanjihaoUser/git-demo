@@ -4,3 +4,4 @@ this is my first git file
 看看能不能存储中文
 wq:	a
 this is a copy of file
+branch file
